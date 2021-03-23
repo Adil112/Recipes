@@ -1,0 +1,13 @@
+D:\Adil\6semestr\Pretest KODE\Recipes\Recipes\bin\Debug\Recipes.exe.config
+D:\Adil\6semestr\Pretest KODE\Recipes\Recipes\bin\Debug\Recipes.exe
+D:\Adil\6semestr\Pretest KODE\Recipes\Recipes\bin\Debug\Recipes.pdb
+D:\Adil\6semestr\Pretest KODE\Recipes\Recipes\bin\Debug\Newtonsoft.Json.dll
+D:\Adil\6semestr\Pretest KODE\Recipes\Recipes\bin\Debug\Newtonsoft.Json.xml
+D:\Adil\6semestr\Pretest KODE\Recipes\Recipes\obj\Debug\Recipes.csprojAssemblyReference.cache
+D:\Adil\6semestr\Pretest KODE\Recipes\Recipes\obj\Debug\Recipes.Form1.resources
+D:\Adil\6semestr\Pretest KODE\Recipes\Recipes\obj\Debug\Recipes.Properties.Resources.resources
+D:\Adil\6semestr\Pretest KODE\Recipes\Recipes\obj\Debug\Recipes.csproj.GenerateResource.cache
+D:\Adil\6semestr\Pretest KODE\Recipes\Recipes\obj\Debug\Recipes.csproj.CoreCompileInputs.cache
+D:\Adil\6semestr\Pretest KODE\Recipes\Recipes\obj\Debug\Recipes.csproj.CopyComplete
+D:\Adil\6semestr\Pretest KODE\Recipes\Recipes\obj\Debug\Recipes.exe
+D:\Adil\6semestr\Pretest KODE\Recipes\Recipes\obj\Debug\Recipes.pdb
